@@ -1,4 +1,4 @@
-# Loja Online - Campanha de ano novo
+# Loja Online - titulo para a campanha de frete
 
 ## Contato
 Duvida: contato@loja.com.br
