@@ -1,5 +1,20 @@
-# Loja Online - titulo para a campanha de atual
+# Loja Online
 
-## Contato
-Duvida: contato@loja.com.br
-Contato Tel: 11 0000-0000
+Projeto de e-commerce desenvolvido na disciplina git, Agile & Dev culture
+
+## Cini rodar
+
+git clone https://github.com/DiegoFigueiredo01/loja-online-ead.git
+cd loja-online-ead
+npm install
+npm start
+
+## Estrutura
+
+- /src - código da aplicação
+- /testes - testes automatizados
+- .github/workflows - pipeline de CI
+
+## Como contribuir
+
+Veja o fluxo de pull Request no CONTRIBUTING.md
